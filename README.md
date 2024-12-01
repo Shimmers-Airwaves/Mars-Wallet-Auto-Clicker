@@ -1,2 +1,1 @@
-# Mars-Wallet-Auto-Clicker
-Mars-Wallet-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
